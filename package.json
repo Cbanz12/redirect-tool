@@ -1,0 +1,26 @@
+{
+  "name": "redirect-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node proxy-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cbanz12/redirect-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cbanz12/redirect-tool/issues"
+  },
+  "homepage": "https://github.com/Cbanz12/redirect-tool#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "node-fetch": "^3.3.2",
+    "request-promise": "^4.2.6"
+  }
+}
